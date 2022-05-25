@@ -12,6 +12,6 @@
 
 - 😄 Pronouns: he/him
 
-- Stats
+## Stats
 
-[![Amol's GitHub stats](https://github-readme-stats.vercel.app/api?username=1amol2)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=1amol2&show_icons=true&icon_color=D32F2F&theme=dark&title_color=D32F2F)
