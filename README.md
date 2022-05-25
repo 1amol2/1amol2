@@ -1,6 +1,6 @@
 ### Hi there 👋 , This is Amol
 
-
+![](https://komarev.com/ghpvc/?username=1amol2&color=121212)
 
 - 🔭 I’m currently working on [Chatty](https://github.com/1amol2/Chatty)
 - 🌱 I’m currently learning Android App development 
