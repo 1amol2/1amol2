@@ -7,7 +7,7 @@
 - 💬 Ask me about any of my repositories
 - 📫 How to reach me: 
 
-- [Email](amolchandra2006@gmail.com) 
+- amolchandra2006@gmail.com
 - [Telegram](https://t.me/amol_chandra)
 
 - 😄 Pronouns: he/him
