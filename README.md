@@ -8,7 +8,7 @@
 - 📫 How to reach me: 
 
 - [Email](amolchandra2006@gmail.com) 
-- [Telegram](https://t.me/+6nU_Qm7vT1RmZWU1)
+- [Telegram](https://t.me/amol_chandra)
 
 - 😄 Pronouns: he/him
 
