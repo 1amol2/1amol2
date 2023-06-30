@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=1amol2&color=121212)
 
-- 🔭 I’m currently working on [Chatty](https://github.com/1amol2/Chatty)
+- 🔭 I’m currently working on [Chatty](https://github.com/1amol2/NoteIt)
 - 🌱 I’m currently learning Android App development 
 - 💬 Ask me about any of my repositories
 - 😄 Pronouns: he/him
