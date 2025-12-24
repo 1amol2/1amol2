@@ -2,10 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=1amol2&color=121212)
 
-
-- 🌱 I’m currently learning Android App development 
 - 💬 Ask me about any of my repositories
-- 😄 Pronouns: he/him
+
 
 ## 📫 How to reach me: 
 
