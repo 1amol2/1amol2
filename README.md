@@ -7,8 +7,8 @@
 
 ## 📫 How to reach me: 
 
-- amolchandra2006@gmail.com
-- [Telegram](https://t.me/amol_chandra)
+- amolchandra010@gmail.com
+
 
 ## Stats
 
