@@ -5,10 +5,10 @@
 - 💬 Ask me about any of my repositories
 
 
-## 📫 How to reach me: 
+## 📫 How to reach me:
 
-- amolchandra010@gmail.com
-
+- 📧 Email: [amolchandra010@gmail.com](mailto:amolchandra010@gmail.com)
+- 💼 Fiverr: [Hire me on Fiverr](https://www.fiverr.com/s/XLpZ9km)
 
 ## Stats
 
