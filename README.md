@@ -15,6 +15,53 @@ Building scalable mobile applications with modern UI, backend systems and explor
 <img src="https://komarev.com/ghpvc/?username=1amol2&label=Profile%20Views&color=8B5E3C&style=for-the-badge"/>
 </p>
 
+# 📫 Connect With Me
+
+
+<div align="center">
+
+
+<a href="https://www.fiverr.com/amol_chandra">
+
+<img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+
+</a>
+
+
+<a href="mailto:amolchandra010@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+
+<a href="https://github.com/1amol2">
+
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+
+</a>
+
+
+</div>
+
+# 📊 GitHub Analytics
+
+
+<div align="center">
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=1amol2&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=1amol2&theme=tokyonight&hide_border=true"/>
+
+
+</div>
+
+
+---
+
+
 </div>
 
 
@@ -285,56 +332,6 @@ Currently exploring:
 
 ---
 
-# 📊 GitHub Analytics
-
-
-<div align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=1amol2&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=1amol2&theme=tokyonight&hide_border=true"/>
-
-
-</div>
-
-
----
-
-# 📫 Connect With Me
-
-
-<div align="center">
-
-
-<a href="https://www.fiverr.com/amol_chandra">
-
-<img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-
-</a>
-
-
-<a href="mailto:amolchandra010@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-
-<a href="https://github.com/1amol2">
-
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-
-</a>
-
-
-</div>
-
-
-
----
-
 <div align="center">
 
 
@@ -344,7 +341,8 @@ Currently exploring:
 ⭐ If you like my work, consider starring my repositories.
 
 
-</div>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5E3C&height=120&section=footer"/>
+</div>
