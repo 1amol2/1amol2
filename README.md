@@ -121,9 +121,7 @@ Material Design
 
 
 🔗 Repository:
-[BuyNSell](https://github.com/1amol2)
-
-
+[BuyNSell](https://github.com/1amol2/BuyNSell.git)
 
 ---
 
@@ -158,7 +156,7 @@ Docker
 
 
 🔗 Repository:
-[Foodie](https://github.com/1amol2)
+[Foodie](https://github.com/1amol2/Foodie.git)
 
 
 
