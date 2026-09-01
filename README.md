@@ -20,14 +20,6 @@ Building scalable mobile applications with modern UI, backend systems and explor
 
 <div align="center">
 
-
-<a href="https://www.fiverr.com/amol_chandra">
-
-<img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-
-</a>
-
-
 <a href="mailto:amolchandra010@gmail.com">
 
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
