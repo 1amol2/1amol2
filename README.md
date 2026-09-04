@@ -116,7 +116,6 @@ ai_ml:
 
 currently_building:
   - BuyNSell
-  - Foodie
 
 
 learning:
