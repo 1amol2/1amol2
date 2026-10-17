@@ -44,7 +44,9 @@ Building scalable mobile applications with modern UI, backend systems and explor
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=1amol2&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1amol2&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1amol2&theme=tokyonight&hide_border=true&v=2)](https://git.io/streak-stats)
+
 
 
 
