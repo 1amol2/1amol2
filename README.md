@@ -11,10 +11,6 @@ Building scalable mobile applications with modern UI, backend systems and explor
 </p>
 
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=1amol2&label=Profile%20Views&color=8B5E3C&style=for-the-badge"/>
-</p>
-
 # 📫 Connect With Me
 
 
