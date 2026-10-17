@@ -3,11 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5E3C&height=220&section=header&text=Amol%20Chandra&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
 <h3>
-Android Developer | Kotlin | Java | Jetpack Compose | Spring Boot
+Mobile & Backend Developer | Android • Kotlin • Java • Spring Boot • Distributed Systems
 </h3>
 
 <p>
-Building scalable mobile applications with modern UI, backend systems and exploring AI/ML applications.
+  Building modern Android applications, scalable backend services, and distributed systems while exploring AI/ML applications.
 </p>
 
 
