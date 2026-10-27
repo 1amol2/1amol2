@@ -7,58 +7,29 @@ Mobile & Backend Developer | Android • Kotlin • Java • Spring Boot • Dis
 </h3>
 
 <p>
-  Building modern Android applications, scalable backend services, and distributed systems while exploring AI/ML applications.
+Building modern Android applications, scalable backend services, and distributed systems while exploring Generative AI.
 </p>
-
 
 # 📫 Connect With Me
 
-
-<div align="center">
-
 <a href="mailto:amolchandra010@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
-
-
 <a href="https://github.com/1amol2">
-
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-
 </a>
-
-
-</div>
 
 # 📊 GitHub Analytics
 
-
-<div align="center">
-
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=1amol2&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1amol2&theme=tokyonight&hide_border=true&v=2)](https://git.io/streak-stats)
 
-
-
-
 </div>
-
-
----
-
-
-</div>
-
 
 ---
 
 # 👋 About Me
-
 
 ```yaml
 name: Amol Chandra
@@ -70,16 +41,15 @@ education:
 role:
   - Android Developer
   - Backend Developer
-  - AI/ML Enthusiast
-
+  - Distributed Systems Enthusiast
 
 focus:
   - Native Android Development
   - Clean Architecture
   - REST API Development
+  - Backend System Design
+  - Distributed Systems
   - Full Stack Mobile Applications
-  - AI-powered Applications
-
 
 android:
   - Kotlin
@@ -90,86 +60,83 @@ android:
   - Retrofit
   - Room Database
 
-
 backend:
   - Spring Boot
+  - Java
   - MongoDB
+  - PostgreSQL
   - REST APIs
   - JWT Authentication
   - Docker
 
+distributed_systems:
+  - Redis
+  - Apache Kafka
+  - Docker Compose
+  - Microservices Fundamentals
+  - Asynchronous Communication
 
 cloud:
   - Firebase
   - Cloudinary
 
-
-ai_ml:
-  - Python
-  - Machine Learning Fundamentals
-  - Data Analysis
-  - Deep Learning Basics
-  - Generative AI
-
-
 currently_building:
-  - BuyNSell
+  - Polyglot Distributed SMS Service
+  - Foodie
 
+currently_exploring:
+  - Generative AI (GenAI)
+  - Distributed Systems
+  - Scalable Backend Architectures
 
 learning:
   - Advanced Android Architecture
-  - System Design
-  - Machine Learning
-  - AI Integration
+  - Backend System Design
+  - Kubernetes
+  - Data Structures & Algorithms
+  - Cloud Deployment
 ```
-
 
 ---
 
 # 🚀 Featured Projects
 
+## ⚙️ Polyglot Distributed SMS Service
 
-## 🛒 BuyNSell
-
-A college marketplace Android application that helps students buy and sell products within their campus community.
-
+A distributed backend system focused on reliable SMS processing, asynchronous communication, and scalable service architecture.
 
 ### Tech Stack
 
-```
+```text
 Java
-XML
-Firebase Realtime Database
-Cloudinary
-Glide
-Material Design
+Spring Boot
+Docker
+Docker Compose
+Redis
+Apache Kafka
+Distributed Systems
 ```
 
+### Key Areas
 
-### Features
+- ⚙️ Distributed service architecture
+- 📨 Asynchronous message processing with Kafka
+- ⚡ Redis-based caching and fast data access
+- 🐳 Containerized services using Docker
+- 🔄 Service communication and reliability
+- 📈 Exploring scalability and fault tolerance
 
-- 🔐 User Authentication
-- 📦 Product Listing
-- 🖼️ Image Upload
-- 💬 Real-time Chat
-- 🔍 Search & Filtering
-- 👤 User Profiles
-
-
-🔗 Repository:
-[BuyNSell](https://github.com/1amol2/BuyNSell.git)
+🔗 Repository: [Polyglot Distributed SMS Service](https://github.com/1amol2/polyglot-distributed-sms-service)
 
 ---
-
 
 ## 🍔 Foodie
 
 A full-stack food delivery application built using modern Android architecture and backend technologies.
 
-
 ### Tech Stack
 
-```
+```text
 Kotlin
 Jetpack Compose
 Retrofit
@@ -180,7 +147,6 @@ JWT Authentication
 Docker
 ```
 
-
 ### Features
 
 - 🍽️ Restaurant Browsing
@@ -190,148 +156,99 @@ Docker
 - 🔐 Secure Authentication
 - 🌐 REST API Integration
 
-
-🔗 Repository:
-[Foodie](https://github.com/1amol2/Foodie.git)
-
-
+🔗 Repository: [Foodie](https://github.com/1amol2/Foodie)
 
 ---
-
 
 # 🛠️ Tech Stack
 
-
 <div align="center">
-
 
 ## 📱 Android Development
 
-
 <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase"/>
 
-
-<br><br>
-
+<br/><br/>
 
 ## ⚙️ Backend Development
 
+<img src="https://skillicons.dev/icons?i=spring,mongodb,postgres,docker,redis"/>
 
-<img src="https://skillicons.dev/icons?i=spring,mongodb,docker"/>
+<br/><br/>
 
+## 🔄 Distributed Systems
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=docker,kafka,redis"/>
 
-
-## 🤖 AI / Machine Learning
-
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
-
-
-<br><br>
-
+<br/><br/>
 
 ## 🧰 Tools
 
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea"/>
 
 </div>
 
-
-
 ---
 
-# 🤖 AI / ML Journey
+# 🔭 Currently Exploring
 
+### 🤖 Generative AI (GenAI)
 
-Currently exploring:
-
-
-```
-🧠 Machine Learning
-
-- Supervised Learning
-- Unsupervised Learning
-- Regression
-- Classification
-- Model Evaluation
-
-
-📊 Data Science
-
-- Python Programming
-- NumPy
-- Pandas
-- Data Visualization
-
-
-🔥 Deep Learning
-
-- Neural Networks
-- TensorFlow Basics
-- PyTorch Basics
-- Computer Vision Fundamentals
-
-
-🚀 AI Engineering
-
-- AI Model Integration
-- Generative AI
-- LLM Fundamentals
+- Large Language Models (LLMs)
+- Prompt Engineering
 - AI-powered Applications
-```
+- Integrating GenAI into existing software systems
 
+### 🌐 Distributed Systems
+
+- Distributed System Fundamentals
+- Message Queues and Event-Driven Architecture
+- Apache Kafka and Redis
+- Scalability and Fault Tolerance
+- Microservices Communication
+- Container Orchestration
 
 ---
 
 # 📚 Currently Learning
 
-
-```
+```text
 📌 Advanced Android Architecture
 
 📌 Jetpack Compose Best Practices
 
 📌 Backend System Design
 
-📌 Cloud Deployment
+📌 Distributed Systems
+
+📌 Kubernetes & Container Orchestration
 
 📌 Data Structures & Algorithms
 
-📌 Machine Learning & AI Applications
+📌 Cloud Deployment
 ```
-
 
 ---
 
-# 🏆 Achievements
+# 🏆 Highlights
 
-
-| Achievement | Details |
+| Area | Experience / Focus |
 |---|---|
-| 📱 Android Development | Built full-stack Android applications |
-| ⚙️ Backend Development | Spring Boot + MongoDB REST APIs |
-| 🔥 Firebase | Authentication & Realtime Database |
-| 🤖 AI/ML | Exploring ML algorithms and AI applications |
-
-
+| 📱 Android Development | Kotlin, Java, Jetpack Compose, XML |
+| ⚙️ Backend Development | Spring Boot, REST APIs, MongoDB, PostgreSQL |
+| 📨 Distributed Systems | Kafka, Redis, Docker, asynchronous processing |
+| 🔐 Backend Security | JWT Authentication |
+| 🐳 Containerization | Docker and Docker Compose |
+| 🤖 GenAI | Exploring LLMs and AI-powered applications |
 
 ---
 
 <div align="center">
 
-
 ### "Building ideas into working products 🚀"
-
 
 ⭐ If you like my work, consider starring my repositories.
 
-
-
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5E3C&height=120&section=footer"/>
+
 </div>
